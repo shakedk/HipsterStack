@@ -1,5 +1,6 @@
+# <%= title %>
 
-# Usage
+## Usage
 Run
 ```
 npm install
@@ -17,11 +18,3 @@ Run
 npm run build
 ```
 to build a deployment version (into the build directory)
-
-
-Run
-```
-npm run build
-```
-to build a deployment version (into the build directory)
-
