@@ -19,7 +19,7 @@ class App extends Component {
     const { hoveredItemId } = uiState;
     return (
       <div>
-        <h1>Äpp</h1>
+        <h1><%= title %></h1>
         {dataAPI.ready ? (
           <div>
             <VisComponent data={items} />
